@@ -18,6 +18,6 @@ module.exports = {
     "no-console": "off",
     "lines-between-class-members": "off",
     "class-methods-use-this": "off",
-    'import/extensions'
+    "import/extensions": "off",
   },
 };
