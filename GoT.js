@@ -16,7 +16,6 @@ class Personajes {
   }
   morir() {
     this.estado = "muerto";
-    return;
   }
 }
 
